@@ -31,7 +31,5 @@ Star Gates or Time Travel can only transport spirits not the bodies of this dime
 
 More information:
 - [Homepage & Demo](http://www.archangelstv.com)
-- [Documentation & Class Reference](http://docs.humhub.org)
-- [Community](http://community.humhub.com/)
-- [Licence](http://www.archangelstv.com/licences)
+- - [Licence](http://www.archangelstv.com/licences)
 
