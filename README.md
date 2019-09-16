@@ -5,7 +5,6 @@ Welcome to Archangels TV
 [![Yii2](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](http://www.yiiframework.com/)
 [![CLA assistant](https://cla-assistant.io/readme/badge/humhub/humhub)](https://cla-assistant.io/humhub/humhub)
 
-HumHub is a feature rich and highly flexible OpenSource Social Network Kit written in PHP.
 
 Welcome to Archangels TV
 
